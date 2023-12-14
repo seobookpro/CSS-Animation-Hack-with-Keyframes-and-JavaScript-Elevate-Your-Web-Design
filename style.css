@@ -1,0 +1,24 @@
+.anim-one span {
+   animation: fadeIn 1.0s ease-in-out;
+   animation-fill-mode: both;
+ }
+.anim-two span {
+   animation: fadeIn 1.5s ease-in-out;
+   animation-fill-mode: both;
+ }
+.anim-three span {
+   animation: fadeIn 2.0s ease-in-out;
+   animation-fill-mode: both;
+ }
+
+ span#endanim-animTextOne.endanim-anim-one, span#endanim-animTextTwo.endanim-anim-two, span#endanim-animTextThree.endanim-anim-three {
+        animation: fadeIn 1s ease-in-out 1s;
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        font-size: 14px;
+        text-align: justify;
+        transition: all 0.9s;
+        color: #f00;
+        font-weight: 700;
+        line-height: 1rem;
+}
