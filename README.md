@@ -4,6 +4,10 @@ In the dynamic world of web development, where user engagement and visual appeal
 
 > From subtle transitions to complex keyframe animations, CSS empowers developers to breathe life into static elements, turning web pages into immersive journeys.
 
+### ❤️ See the [CSS Animation Live Code Example](https://codepen.io/SEO-Book-Pro-Technical-SEO/pen/QWYXyXm) codepen.io
+
+### ❤️ Follow [SEO Book Pro - Technical SEO](https://codepen.io/SEO-Book-Pro-Technical-SEO) on CodePen.io
+
 # :bulb: Embracing the Creative Potential
 
 <details>
@@ -282,4 +286,3 @@ To apply the animation to these divs, you can encapsulate the logic in a functio
 - Optimize your animations to ensure they enhance your web design without compromising the overall user experience. 
 - Experiment with different animation styles, durations, and delays to find the perfect combination that suits your project.
 - In the ever-evolving world of web development, staying creative and exploring new techniques like this CSS animation hack can set your projects apart and leave a lasting impression on your users.
-  
