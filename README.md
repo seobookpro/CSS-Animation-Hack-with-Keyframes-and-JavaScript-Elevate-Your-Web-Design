@@ -4,9 +4,9 @@ In the dynamic world of web development, where user engagement and visual appeal
 
 > From subtle transitions to complex keyframe animations, CSS empowers developers to breathe life into static elements, turning web pages into immersive journeys.
 
-### ❤️ See the [CSS Animation Live Code Example](https://codepen.io/SEO-Book-Pro-Technical-SEO/pen/QWYXyXm) codepen.io
+### ❤️ See the [CSS Animation Live Code Example](https://codepen.io/seobookpro/pen/QWYXyXm) codepen.io
 
-### ❤️ Follow [SEO Book Pro - Technical SEO](https://codepen.io/SEO-Book-Pro-Technical-SEO) on CodePen.io
+### ❤️ Follow [SEO Book Pro - Technical SEO](https://codepen.io/seobookpro) on CodePen.io
 
 # :bulb: Embracing the Creative Potential
 
